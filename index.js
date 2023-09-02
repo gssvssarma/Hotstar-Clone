@@ -3,32 +3,32 @@ let movies = [
     name: "falcon and winter soldier",
     des:
       " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident magnam optio officiis voluptatibus impedit temporibus qui repellendus consequuntur modi minus. ",
-    image: "images/slider 2.PNG"
+    image: "public/images/slider 2.PNG"
   },
   {
     name: "loki",
     des:
       " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident magnam optio officiis voluptatibus impedit temporibus qui repellendus consequuntur modi minus. ",
-    image: "images/slider 1.PNG"
+    image: "public/images/slider 1.PNG"
   },
   {
     name: "wanda vision",
     des:
       " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident magnam optio officiis voluptatibus impedit temporibus qui repellendus consequuntur modi minus. ",
-    image: "images/slider 3.PNG"
+    image: "public/images/slider 3.PNG"
   },
 
   {
     name: "raya and the last dragon",
     des:
       " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident magnam optio officiis voluptatibus impedit temporibus qui repellendus consequuntur modi minus. ",
-    image: "images/slider 4.PNG"
+    image: "public/images/slider 4.PNG"
   },
   {
     name: "luca",
     des:
       " Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident magnam optio officiis voluptatibus impedit temporibus qui repellendus consequuntur modi minus. ",
-    image: "images/slider 5.PNG"
+    image: "public/images/slider 5.PNG"
   }
 ];
 
